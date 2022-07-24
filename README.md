@@ -1,6 +1,6 @@
 # DatePickerTimeline
 
-[![Pub](https://img.shields.io/pub/v/date_picker_timeline?color=%232bb6f6)](https://pub.dev/packages/date_picker_timeline)
+[![Pub](https://img.shields.io/pub/v/date_picker_timeline_fixed?color=%232bb6f6)](https://pub.dev/packages/date_picker_timeline_fixed)
 
 Flutter Date Picker Library that provides a calendar as a horizontal timeline.
 
@@ -13,7 +13,7 @@ Flutter Date Picker Library that provides a calendar as a horizontal timeline.
 Import the following package in your dart file
 
 ```dart
-import 'package:date_picker_timeline/date_picker_timeline.dart';
+import 'package:date_picker_timeline_fixed/date_picker_timeline_fixed.dart';
 ```
 
 ## Usage
